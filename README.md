@@ -33,3 +33,8 @@ SearchData1.py = untuk mencari data tertentu berdasarkan ID (disini saya ingin m
 Seluruh file pada repository ini merupakan hasil dari Praktikum UAS PBL02 yang mengimplementasikan operasi database menggunakan SQLite3 dan Python. Semua script telah diuji dan berjalan dengan baik secara terpisah sesuai fungsi masing-masing. Diharapkan repository ini dapat menjadi referensi dalam memahami dasar pengelolaan database menggunakan Python.
 
 Terima kasih.
+
+
+NIM:241080200141
+NAMA:DWIKY DHARMAWAN
+KELAS:2A1
